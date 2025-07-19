@@ -1,3 +1,4 @@
+---
 name: VanillaGenerator
 main: muqsit\vanillagenerator\Loader
 api: 5.8.0
@@ -7,3 +8,5 @@ github: https://github.com/Muqsit
 twitter: https://twitter.com/muqsitrayyan
 forum: https://forums.pmmp.io/members/muqsit.25/
 hotel: trivago
+load: startup
+...
